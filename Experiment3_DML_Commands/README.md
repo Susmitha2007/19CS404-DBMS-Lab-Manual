@@ -62,6 +62,7 @@ SELECT column1, column2 FROM table_name WHERE condition;
 <img width="1683" height="718" alt="image" src="https://github.com/user-attachments/assets/f474b520-8c21-4562-9090-9ed5743e7432" />
 
 **Question 3**
+
 <img width="708" height="330" alt="image" src="https://github.com/user-attachments/assets/a2e39d4b-566d-47b9-9b68-3f6b364e2d15" />
 
 **Output:**
