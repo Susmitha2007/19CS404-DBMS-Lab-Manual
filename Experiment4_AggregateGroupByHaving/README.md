@@ -85,6 +85,7 @@ HAVING condition;
 <img width="1314" height="745" alt="image" src="https://github.com/user-attachments/assets/5d8ebcff-c6e2-4b8e-8800-fb3fa482c38a" />
 
 **Question 7**
+
 <img width="784" height="358" alt="image" src="https://github.com/user-attachments/assets/277c4648-536f-419b-ac62-d5c9ffb8b685" />
 
 
