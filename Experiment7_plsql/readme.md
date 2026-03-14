@@ -91,7 +91,6 @@ Sum of first 10 natural numbers is: 55
 ```
 
 ## 3. Write a PL/SQL program to generate Fibonacci series
-
 ```SET SERVEROUTPUT ON;
 
 DECLARE
