@@ -53,6 +53,7 @@ END;
 Greater number is: 80
 
 ##Output:
+
 Greater number is: 80
 ---
 
@@ -72,7 +73,7 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Sum of first ' || n || ' natural numbers is: ' || sum);
 END;
 /
-
+```
 
 ### Steps:
 - Declare a variable `n` and assign a value (e.g., 10).
@@ -84,7 +85,9 @@ END;
 Sum of first 10 natural numbers is: 55
 
 ##Output:
+
 Sum of first 10 natural numbers is: 55
+
 ```
 
 ## 3. Write a PL/SQL program to generate Fibonacci series
@@ -166,6 +169,7 @@ n = 1535
 Reversed number is 5351
 
 ##Output
+
 Reversed number is 5351
 ---
 
@@ -199,6 +203,8 @@ a = 10, b = 9, c = 15
 Largest of three number is 15
 
 ##Output:
+
 Largest of three numbers is 15
+
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
