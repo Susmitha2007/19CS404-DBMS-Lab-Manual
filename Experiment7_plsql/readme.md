@@ -168,9 +168,10 @@ END;
 n = 1535  
 Reversed number is 5351
 
-##Output
+##Output:
 
 Reversed number is 5351
+
 ---
 
 ## 5. Write a PL/SQL program to find the largest of three numbers
